@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7116" started-at="2021-05-06T03:23:24 EDT" finished-at="2021-05-06T03:23:32 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7116" started-at="2021-05-06T03:23:24 EDT" finished-at="2021-05-06T03:23:32 EDT">
+      <class name="testNG_Exercise.TestNG_Test">
+        <test-method status="PASS" signature="stratBrowser()[pri:0, instance:testNG_Exercise.TestNG_Test@4f063c0a]" name="stratBrowser" is-config="true" duration-ms="4198" started-at="2021-05-06T03:23:25 EDT" finished-at="2021-05-06T03:23:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stratBrowser -->
+        <test-method status="PASS" signature="validUserSouldAbleToAddCatagory()[pri:1, instance:testNG_Exercise.TestNG_Test@4f063c0a]" name="validUserSouldAbleToAddCatagory" duration-ms="2876" started-at="2021-05-06T03:23:29 EDT" finished-at="2021-05-06T03:23:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserSouldAbleToAddCatagory -->
+      </class> <!-- testNG_Exercise.TestNG_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
